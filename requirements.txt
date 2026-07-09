@@ -1,0 +1,8 @@
+Language: Python Version: 3.2
+Libraries: 
+Numpy
+Pandas
+Matplotlib
+Seaborn
+RAM Requirements: 
+GB
