@@ -1,2 +1,12 @@
 # My-Personal-Test-Project
-Test Repo
+Overview of Project (Goals) 
+
+Datasets: (Kaggle, Statista, etc) 
+
+Findings: 
+
+Recommendations: 
+
+
+Contributor: 
+Reuben, University 
